@@ -1,6 +1,6 @@
 ## Lumen - A free Linux-based writing application
 
-> [!tip] M.T.R. - Note
+> **M.T.R.:**
 > Hello, and thanks for checking out my project! Lumen is a writing application I wrote **primarily for myself**, so let it be known that the theme is strong and the features are kind of dense in a way most people might not be into. **Please do not submit issue reports for aesthetics** **alone** unless there's an actual bug/unintended issue/something missing, etc - The continued development of this app is primarily intended to be fixing issues and **potentially** new features, however I mostly consider the first version of the app finished (*as of posting, at least*).<br><br>Licence information is below; **TLDR** software's free and your work's yours, but please don't modify the app!<br><br>*This README.md may be updated in the future - Last change 11-04-2026*
 
 ---
