@@ -32,5 +32,5 @@
   *Fonticons, Inc.*  
   [CC BY 4.0 · SIL OFL 1.1 · MIT](https://fontawesome.com/license/free)
 - **Emojibase**  
-  *Miles Johnso**n*  
+  *Miles Johnson*  
   [MIT](https://github.com/milesj/emojibase/blob/master/LICENSE)
